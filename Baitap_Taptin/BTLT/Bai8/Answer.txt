@@ -1,0 +1,5 @@
+Vì các "ổ chứa" thông thường - I/O tiêu chuẩn, tệp và thậm chí
+cả khối bộ nhớ của thư viện iostream của C++ sẽ trông đồng bộ
+hơn. Vì vậy chúng ta chỉ cần nhớ một giao diện. Chúng dễ dàng
+hơn, an toàn hơn, và thường hiệu quả hơn nhiều so với các hàm
+khác nhau từ thư viện chuẩn của C.

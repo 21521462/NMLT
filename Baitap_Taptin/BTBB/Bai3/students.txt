@@ -1,0 +1,20 @@
+1.
+Ma so sinh vien: 21521462
+Ho va ten: Nguyen Phuoc Thien
+Nam sinh: 2003
+Diem trung binh: 8.5
+2.
+Ma so sinh vien: 21521463
+Ho va ten: Nguyen Tan Khiem
+Nam sinh: 2003
+Diem trung binh: 8.7
+3.
+Ma so sinh vien: 21521464
+Ho va ten: Cao Le Minh Ngoc
+Nam sinh: 2003
+Diem trung binh: 8.6
+4.
+Ma so sinh vien: 21521465
+Ho va ten: Pham Nguyen Ha Vy
+Nam sinh: 2003
+Diem trung binh: 8.8
